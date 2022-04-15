@@ -9,7 +9,7 @@
 <!-- Socials -->
 <h3 align="left">Socials:</h3>
   <div align="left">
-    <a href="https://www.linkedin.com/in/karanxhagiulia/" target="blank">
+    <a href="https://www.linkedin.com/in/ankitankit/" target="blank">
       <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" style="height: 3rem"/>
     </a>
   <a href="https://public.tableau.com/app/profile/ankit4413" target="blank">
