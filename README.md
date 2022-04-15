@@ -1,9 +1,9 @@
 ### Hi there 👋
-🌱 I’m currently learning Big Data Management and Analytics
-🤔 I'd love to become proficient in Big Data and Anlytics
-👩‍💻 Interested in Data
-🖌️ I love design and painting
-📫 How to reach me: ankit.email247@gmail.com
+🌱 I’m currently learning Big Data Management and Analytics  
+🤔 I'd love to become proficient in Big Data and Anlytics  
+👩‍💻 Interested in Data  
+🖌️ I love design and painting  
+📫 How to reach me: ankit.email247@gmail.com  
 <!--
 **Invaed/Invaed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
