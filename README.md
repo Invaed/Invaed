@@ -35,7 +35,7 @@
 
  [![iuricode](https://github-readme-stats.vercel.app/api?username=invaed&show_icons=true&theme=dracula)](https://github.com/invaed/)  
  [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=Invaed&hide=html&layout=compact=true&theme=dracula)](https://github.com/invaed/)  
- ![giphy (3)](https://giphy.com/gifs/Giflytics-doubt-spreadsheets-when-in-spreadsheet-it-out-TncmRRvEGVoVcHgaAb)
+ ![giphy (3)](https://media2.giphy.com/media/TncmRRvEGVoVcHgaAb/200w.webp?cid=ecf05e474lm8ryvyxgm7gm3t87dh6onax7jb9nicc1wb0mxh&rid=200w.webp&ct=g)
 
  
 <!--
